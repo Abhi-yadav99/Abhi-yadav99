@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-yadav99&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-yadav99" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhi-yadav99&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 📫 How to reach me **ay997326@gmail.com**
-
+- 📫 How to reach me **ay997326@gmail.com**  
 - ⚡ Fun fact **I am funny 😎**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-yadav-97aa13295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-yadav-97aa13295" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-yadav-97aa13295" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
+
+---
+
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -26,21 +36,74 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-yadav99&show_icons=true&locale=en&layout=compact" alt="abhi-yadav99" /></p>
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhi-yadav99&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-yadav99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-yadav99&theme=tokyonight" />
+</p>
 
-<!---LeetCode Topics Start-->
+---
 
+---
 
-# LeetCode Topics
-## Array
+---
+
+<h3 align="center">💡 Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-yadav99&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+</p>
+
+---
+
+<h3 align="left">🧠 LeetCode Stats:</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhi-yadav99?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+# 🚀 LeetCode Topics
+
+## 🧮 Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Abhi-yadav99/Abhi-yadav99/tree/main/0198-house-robber/) | Medium |
-## Dynamic Programming
+| [121-best-time-to-buy-and-sell-stock](https://github.com/Abhi-yadav99) | Easy |
+| [283-move-zeroes](https://github.com/Abhi-yadav99) | Easy |
+
+## 🧠 Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Abhi-yadav99/Abhi-yadav99/tree/main/0198-house-robber/) | Medium |
-<!---LeetCode Topics End-->
+| [070-climbing-stairs](https://github.com/Abhi-yadav99) | Easy |
+
+## 🔗 Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [206-reverse-linked-list](https://github.com/Abhi-yadav99) | Easy |
+| [141-linked-list-cycle](https://github.com/Abhi-yadav99) | Easy |
+
+## 🌳 Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100-same-tree](https://github.com/Abhi-yadav99) | Easy |
+| [101-symmetric-tree](https://github.com/Abhi-yadav99) | Easy |
+
+## 🔍 Searching & Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [704-binary-search](https://github.com/Abhi-yadav99) | Easy |
+| [088-merge-sorted-array](https://github.com/Abhi-yadav99) | Easy |
+
+## 🧵 Strings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [125-valid-palindrome](https://github.com/Abhi-yadav99) | Easy |
+| [344-reverse-string](https://github.com/Abhi-yadav99) | Easy |
+
+---

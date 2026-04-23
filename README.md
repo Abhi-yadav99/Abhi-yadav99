@@ -48,7 +48,71 @@
 ---
 
 ---
+<h2>🚀 Featured Projects</h2>
 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>📊 BigMart Sales Prediction</td>
+    <td>Sales forecasting using machine learning techniques</td>
+    <td>Python, Pandas, ML</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/BigMart-Sales-Prediction">💻 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌐 GitHub Profile Webpage</td>
+    <td>Personal portfolio webpage showcasing projects</td>
+    <td>HTML, CSS</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/gittHub-profile-webpage">💻 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⏰ Clock Age Calculator</td>
+    <td>Web app to calculate age dynamically</td>
+    <td>HTML, CSS, JavaScript</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/Clock-AgeCalculator-Webpage">💻 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎓 Student Attendance System</td>
+    <td>System to manage and track student attendance</td>
+    <td>Python / DBMS</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/Student-Attendance-System-small-project-">💻 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🚗 Car Rental System</td>
+    <td>Manage vehicle booking and rental system</td>
+    <td>Python / OOP</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/Car-Rental-System">💻 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>📦 Inventory Management System</td>
+    <td>Track stock and manage inventory efficiently</td>
+    <td>Python / DBMS</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/inventory-project">💻 Code</a>
+    </td>
+  </tr>
+
+</table>
 ---
 
 <h3 align="center">💡 Top Languages</h3>

@@ -46,8 +46,6 @@
 </p>
 
 ---
-
----
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -56,6 +54,16 @@
     <th>Description</th>
     <th>Tech</th>
     <th>Links</th>
+  </tr>
+
+  <!-- LMS PROJECT FIRST -->
+  <tr>
+    <td>📚 LMS Website</td>
+    <td>Responsive Learning Management System with courses, dashboard, quizzes, and authentication</td>
+    <td>HTML, CSS, JavaScript, Bootstrap 5</td>
+    <td>
+      <a href="https://github.com/Abhi-yadav99/LMS-project">💻 Code</a>
+    </td>
   </tr>
 
   <tr>
@@ -112,6 +120,8 @@
     </td>
   </tr>
 
+</table>
+---
 </table>
 ---
 

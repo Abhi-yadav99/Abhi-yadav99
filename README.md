@@ -133,11 +133,6 @@
 
 ---
 
-<h3 align="left">🧠 LeetCode Stats:</h3>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhi-yadav99?theme=dark&font=Karma&ext=heatmap" />
-</p>
 
 ---
 
